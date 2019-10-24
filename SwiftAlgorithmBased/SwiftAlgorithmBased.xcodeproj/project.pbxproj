@@ -146,17 +146,9 @@
 				0A8E5457236038F000F30F10 /* Center */,
 				0A0928C02350632E00868815 /* Factory */,
 				0A0928BD2350604B00868815 /* Protocol */,
-				0A3368BB234EDA6F00DD1527 /* Layout */,
 				0A3368BC234EDA6F00DD1527 /* Src */,
 			);
 			path = Function;
-			sourceTree = "<group>";
-		};
-		0A3368BB234EDA6F00DD1527 /* Layout */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Layout;
 			sourceTree = "<group>";
 		};
 		0A3368BC234EDA6F00DD1527 /* Src */ = {
